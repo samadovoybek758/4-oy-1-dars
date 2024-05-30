@@ -86,7 +86,40 @@
 
 
 // 10-masala
-let t = + prompt(`gradusni kiriting`);
+// let t = + prompt(`gradusni kiriting`);
 
-let T = (t-32)*5/9;
-console.log(T) ;
+// let T = (t-32)*5/9;
+// console.log(T) ;
+
+
+
+// 11-masala
+// let sm = + prompt(`ulchovni kiriting`);
+// let m = sm/100;
+// console.log(m);
+
+
+
+// 12-masala
+// let kg = + prompt(`ogirlkni kiriting`);
+// let t = kg/1000;
+// console.log(t);
+
+
+
+// 13-masala
+// let b = + prompt(`sonni kiriting`);
+// let Kb = b/1024;
+// console.log(Kb);
+
+
+
+// 14-masala
+// let a = + prompt(`sonni kiriting (a>b bulsin)`);
+// let b = + prompt(`sonni kiriting (b<a bulsin)`);
+// let s = a/b;
+// console.log(s);
+
+
+
+// 15-masala
